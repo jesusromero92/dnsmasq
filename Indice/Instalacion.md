@@ -15,3 +15,7 @@
      ![3](https://github.com/jesusromero92/dnsmasq/blob/main/Fotos/2.2.png)
      
 4.  - Y ya está configurado
+
+5.  - Podemos configurar el archivo **/etc/hosts** para ver que realmente funciona el dns
+
+     ![3](https://github.com/jesusromero92/dnsmasq/blob/main/Fotos/4.png)
